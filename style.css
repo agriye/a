@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+div{
+    margin-top: : 15px;
+}
+.image-section{
+    display: flex;
+    justify-content:center;
+}
+img{
+    height: 500;
+    width: 500;
+}
